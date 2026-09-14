@@ -193,7 +193,7 @@ All testing was performed only on the designated lab target (`networkwalks.com`)
 
 **Zain ul Abidin**
 
-**Cyber Security Student B083**
+**Cyber Security Intern B083**
 
 ---
 
@@ -202,6 +202,6 @@ All testing was performed only on the designated lab target (`networkwalks.com`)
 **Program Name:** Cybersecurity at Networkwalks
 **Week:** 02
 **Project Module:** PM1 — Footprinting & Reconnaissance Attacks with Multiple Kali Tools
-**Author:** Emmanuel
+**Author:** Zain ul Abidin
 **B-Number:** B083
 **Repository:** GitHub
