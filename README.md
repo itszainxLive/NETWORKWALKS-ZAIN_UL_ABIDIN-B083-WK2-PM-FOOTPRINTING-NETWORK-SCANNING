@@ -234,7 +234,12 @@ Screenshots and text-file outputs for all five modules are stored in their respe
 - `module5-network-scanning-zenmap/screenshots/` — Zenmap ping scan, host details, and topology PDF
 - ### Screenshot
 ![Ping Scan Results](Module5-Zenmap/screenshots/task3-ping-scan.png)
-
+-### Screenshot
+![Zenmap Opened](Module5-Zenmap/screenshots/task1-zenmap-open.png)
+-### Screenshot
+![Local IP and Subnet](Module5-Zenmap/screenshots/task2-ip-subnet.png)
+-### Screenshot
+![IP and MAC Addresses](Module5-Zenmap/screenshots/task456-hosts-details.png)
 -End-
 
 ---
