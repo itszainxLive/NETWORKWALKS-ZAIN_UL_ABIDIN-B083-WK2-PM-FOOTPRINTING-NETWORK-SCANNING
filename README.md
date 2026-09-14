@@ -207,6 +207,16 @@ Screenshots and text-file outputs for all five modules are stored in their respe
 ### Screenshot
 ![DNS Enumeration](module1-recon-kali-tools/screenshots/task6-dnsrecon.png)
 - `module2-ghdb/screenshots/` — 10 exposed camera findings + 10 exposed PDF listing findings
+- ![Camera 1](module2-ghdb/screenshots/task1-cam-01.png)
+![Camera 2](module2-ghdb/screenshots/task1-cam-02.png)
+![Camera 3](module2-ghdb/screenshots/task1-cam-03.png)
+![Camera 4](module2-ghdb/screenshots/task1-cam-04.png)
+![Camera 5](module2-ghdb/screenshots/task1-cam-05.png)
+![Camera 6](module2-ghdb/screenshots/task1-cam-06.png)
+![Camera 7](module2-ghdb/screenshots/task1-cam-07.png)
+![Camera 8](module2-ghdb/screenshots/task1-cam-08.png)
+![Camera 9](module2-ghdb/screenshots/task1-cam-09.png)
+![Camera 10](module2-ghdb/screenshots/task1-cam-10.png)
 - `module3-footprinting-maltego/screenshots/` — Maltego installation + email harvesting result
 - `module4-footprinting-theharvester/screenshots/` — theHarvester Baidu results + all-sources results
 - `module5-network-scanning-zenmap/screenshots/` — Zenmap ping scan, host details, and topology PDF
