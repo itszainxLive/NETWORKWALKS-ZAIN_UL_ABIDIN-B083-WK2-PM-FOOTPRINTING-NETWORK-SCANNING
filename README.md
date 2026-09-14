@@ -198,6 +198,8 @@ Screenshots and text-file outputs for all five modules are stored in their respe
 - `module3-footprinting-maltego/screenshots/` — Maltego installation + email harvesting result
 - `module4-footprinting-theharvester/screenshots/` — theHarvester Baidu results + all-sources results
 - `module5-network-scanning-zenmap/screenshots/` — Zenmap ping scan, host details, and topology PDF
+- ### Screenshot
+![Ping Scan Results](Module5-Zenmap/screenshots/task3-ping-scan.png)
 
 -End-
 
