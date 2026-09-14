@@ -223,6 +223,14 @@ Screenshots and text-file outputs for all five modules are stored in their respe
 ### Screenshot
 ![Email Harvesting Results](module3-footprinting-maltego/screenshots/task2-maltego-emails.png)
 - `module4-footprinting-theharvester/screenshots/` — theHarvester Baidu results + all-sources results
+- ### Screenshot
+![theHarvester Baidu Results](module4-theharvester/screenshots/task1-harvester-baidu.png)
+### Screenshot
+![theHarvester Baidu Results](module4-theharvester/screenshots/task1-harvester2-baidu.png)
+### Screenshot
+![theHarvester All Sources Results](module4-theharvester/screenshots/task2-harvester-all.png)
+### Screenshot
+![theHarvester All Sources Results](module4-theharvester/screenshots/task2-harvester2-all.png)
 - `module5-network-scanning-zenmap/screenshots/` — Zenmap ping scan, host details, and topology PDF
 - ### Screenshot
 ![Ping Scan Results](Module5-Zenmap/screenshots/task3-ping-scan.png)
