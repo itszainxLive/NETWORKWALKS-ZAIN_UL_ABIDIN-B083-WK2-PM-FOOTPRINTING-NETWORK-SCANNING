@@ -194,6 +194,18 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 Screenshots and text-file outputs for all five modules are stored in their respective module folders in this repository:
 
 - `module1-footprinting-recon/screenshots/` — WHOIS, WhatWeb, Nslookup, Curl, Wafw00f, DNSRecon outputs
+- ### Screenshot
+![WHOIS Lookup](screenshots/task1-whois.png)
+### Screenshot
+![WhatWeb Fingerprinting](screenshots/task2-whatweb.png)
+### Screenshot
+![NSLOOKUP](screenshots/task3-nslookup.png)
+### Screenshot
+![cURL Headers](screenshots/task4-curl.png)
+### Screenshot
+![WAF Detection](screenshots/task5-wafw00f.png)
+### Screenshot
+![DNS Enumeration](screenshots/task6-dnsrecon.png)
 - `module2-ghdb/screenshots/` — 10 exposed camera findings + 10 exposed PDF listing findings
 - `module3-footprinting-maltego/screenshots/` — Maltego installation + email harvesting result
 - `module4-footprinting-theharvester/screenshots/` — theHarvester Baidu results + all-sources results
