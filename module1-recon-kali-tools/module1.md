@@ -191,7 +191,7 @@ All testing was performed only on the designated lab target (`networkwalks.com`)
 
 # 👤 Author
 
-**Emmanuel**
+**Zain ul Abidin**
 
 **Cyber Security Student B083**
 
