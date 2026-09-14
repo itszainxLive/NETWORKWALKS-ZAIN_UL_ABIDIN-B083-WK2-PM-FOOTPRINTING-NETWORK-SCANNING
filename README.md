@@ -218,6 +218,10 @@ Screenshots and text-file outputs for all five modules are stored in their respe
 ![Camera 9](module2-ghdb/screenshots/task1-cam-09.png)
 ![Camera 10](module2-ghdb/screenshots/task1-cam-10.png)
 - `module3-footprinting-maltego/screenshots/` — Maltego installation + email harvesting result
+- ### Screenshot
+![Maltego Installation](module3-footprinting-maltego/screenshots/task1-maltego-install.png)
+### Screenshot
+![Email Harvesting Results](module3-footprinting-maltego/screenshots/task2-maltego-emails.png)
 - `module4-footprinting-theharvester/screenshots/` — theHarvester Baidu results + all-sources results
 - `module5-network-scanning-zenmap/screenshots/` — Zenmap ping scan, host details, and topology PDF
 - ### Screenshot
