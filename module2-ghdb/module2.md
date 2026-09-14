@@ -1,4 +1,4 @@
-# NETWORKWALKS-EMMANUEL-B083-WK2-PM2-FOOTPRINTING-GHDB
+# NETWORKWALKS-Zain ul Abidin-B083-WK2-PM2-FOOTPRINTING-GHDB
 
 **Footprinting & Reconnaissance Attacks with GHDB (Google Hacking Database)**
 
